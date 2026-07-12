@@ -60,4 +60,4 @@ curl "http://127.0.0.1:8000/search?q=llm"
 ## Resources
 
 - [FastAPI Tutorial — First Steps](https://fastapi.tiangolo.com/tutorial/first-steps/)
-- [How APIs Actually Work — Requests, Responses & Endpoints] (https://learnwithshrey.medium.com/how-apis-actually-work-requests-responses-endpoints-explained-simply-beddbdc167d9)
+- [How APIs Actually Work — Requests, Responses & Endpoints](https://learnwithshrey.medium.com/how-apis-actually-work-requests-responses-endpoints-explainedsimply-beddbdc167d9)
